@@ -1,6 +1,12 @@
 # Clone Repo and Install Dependencies
 
-After you clone it to your machine, cd into your directory and ### `yarn` or ### `npm install`
+After you clone it to your machine, cd into your directory and 
+
+### `yarn` 
+
+or 
+
+### `npm install`
 
 ## Available Scripts
 
