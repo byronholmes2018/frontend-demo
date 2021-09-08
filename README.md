@@ -1,6 +1,6 @@
 # Clone Repo and Install Dependencies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After you clone it to your machine, cd into your directory and ### yarn or ### npm install
 
 ## Available Scripts
 
