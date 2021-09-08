@@ -4,9 +4,6 @@ After you clone it to your machine, cd into your directory and
 
 ### `yarn` 
 
-or 
-
-### `npm install`
 
 ## Clone Backend Repo 
 
