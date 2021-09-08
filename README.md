@@ -10,7 +10,7 @@ or
 
 ## Clone Backend Repo 
 
-Clone  [https://github.com/byronholmes2018/backend-demo](Backend Repo) to view it in the browser.
+Clone  [backend repo](https://github.com/byronholmes2018/backend-demo) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
